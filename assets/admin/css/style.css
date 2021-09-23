@@ -1,0 +1,22 @@
+.modal-header {
+    padding: 7px 15px;
+    background: #fa5838;
+}
+.modal-header h4 {
+	color: #fff;
+}
+.modal-header button {
+    opacity: 1;
+    color: #fff;
+}
+
+.iamge-scrool {
+    width: 146px;
+    overflow-x: scroll;
+}
+.bg-cart-a {
+    background: #f8f8f8;
+    border: 1px solid #eee;
+    box-shadow: 0 0 15px 0 #eee;
+    border-radius: 5px;
+}

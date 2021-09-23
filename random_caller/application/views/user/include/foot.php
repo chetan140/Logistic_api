@@ -1,0 +1,11 @@
+    <script src="<?= base_url(); ?>assets/user/js/jquery.min.js"></script>
+    <script src="<?= base_url(); ?>assets/user/bootstrap/js/bootstrap.min.js"></script>
+    <script src="<?= base_url(); ?>assets/user/select2/js/select2.min.js"></script>
+    <script src="<?= base_url(); ?>assets/user/matchHeight/js/matchHeight-min.js"></script>
+    <script src="<?= base_url(); ?>assets/user/bxslider/js/bxslider.min.js"></script>
+    <script src="<?= base_url(); ?>assets/user/waypoints/js/waypoints.min.js"></script>
+    <script src="<?= base_url(); ?>assets/user/counterup/js/counterup.min.js"></script>
+    <script src="<?= base_url(); ?>assets/user/magnific-popup/js/magnific-popup.min.js"></script>
+    <script src="<?= base_url(); ?>assets/user/owl-carousel/js/owl.carousel.min.js"></script>
+    <script src="<?= base_url(); ?>assets/user/js/modernizr.custom.js"></script>
+    <script src="<?= base_url(); ?>assets/user/js/custom.js"></script>
